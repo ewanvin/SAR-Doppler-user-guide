@@ -1,3 +1,3 @@
 # SAR-Doppler-user-guide
 
-Something something tbd
+User guide for SAR Doppler data
